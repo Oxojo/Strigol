@@ -1,1 +1,1 @@
-# Strigol
+# Strig
